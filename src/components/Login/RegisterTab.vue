@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-card class="pa-12 mx-auto" width="800">
+    <v-card class="pa-12 mx-auto info" width="800">
       <v-container class="pl-8">
         <v-text-field
           label="Email"
